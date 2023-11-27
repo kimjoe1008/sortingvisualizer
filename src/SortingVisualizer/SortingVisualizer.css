@@ -1,0 +1,16 @@
+.arrayContainer {
+    height: 500px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.arrayBar {
+    width: 2px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.button{
+    margin: 10px;
+}
